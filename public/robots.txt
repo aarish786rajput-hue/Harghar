@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /partner/dashboard
+
+Sitemap: https://harghar.com/sitemap.xml
